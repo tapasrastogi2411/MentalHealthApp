@@ -22,3 +22,9 @@ Nobody in our group knew how to develop android applications before this hackath
 
 We are very proud of learning Kotlin, Java, Flutter, and Firebase using Android Studio this hackathon, and coming up with a hack that is visually pleasing and applicable in our daily lives. Our app is more relevant now than ever before because of the quarantine and lockdown restrictions we must follow to keep us and our loved ones safe.
 
+### Contributors and Contact
+
+- https://github.com/tapasrastogi2411 (Tapas Rastogi)
+- https://github.com/ChristopherOjo (Christopher Ojo)
+- https://github.com/zaiyan-azeem (Zaiyan Azeem)
+- https://www.linkedin.com/in/charliezheng6/ (Charlie Zheng)
